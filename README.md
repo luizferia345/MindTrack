@@ -1,3 +1,6 @@
+# MindTrack — by Luiz Dias
+© 2026 SEU NOME. Todos os direitos reservados.
+
 # 🧠 MindTrack — App de Saúde Mental com IA
 
 Aplicativo React Native (Expo) para acompanhamento de ansiedade e depressão com IA integrada via API da Anthropic.
