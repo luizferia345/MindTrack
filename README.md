@@ -1,5 +1,5 @@
 # MindTrack — by Luiz Dias
-© 2026 SEU NOME. Todos os direitos reservados.
+© 2026 Luiz Dias. Todos os direitos reservados.
 
 # 🧠 MindTrack — App de Saúde Mental com IA
 
