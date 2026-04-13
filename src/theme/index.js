@@ -1,0 +1,18 @@
+export const theme = {
+  bg: '#0D1117',
+  surface: '#161B22',
+  border: '#21262D',
+  accent: '#58A6FF',
+  accentSoft: '#1F3A5C',
+  green: '#3FB950',
+  greenSoft: '#1A3A2A',
+  yellow: '#D29922',
+  yellowSoft: '#3A2E10',
+  red: '#F85149',
+  redSoft: '#3A1A1A',
+  purple: '#BC8CFF',
+  purpleSoft: '#2D1F4A',
+  textPrimary: '#E6EDF3',
+  textSecondary: '#8B949E',
+  textMuted: '#484F58',
+};
